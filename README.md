@@ -1,7 +1,7 @@
                                             👋 Hi, I’m Vikas !
                                             
 - 👀 I’m interested in Java|CyberSecurity
-- 🌱 I’m currently learning DataBase, Java Core
+- 🌱 I’m currently learning MySQL, Java Core
 - 📫 How to reach me vikaschandwara@gmail.com
 
 <!---
