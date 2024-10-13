@@ -29,3 +29,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=07-vikas&show_icons=true&locale=en" alt="07-vikas" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=07-vikas&" alt="07-vikas" /></p>
+
+<div>![Leetcode Stats](https://leetcard.jacoblin.cool/_vikas_07?ext=heatmap)</div>
